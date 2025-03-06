@@ -1,0 +1,2 @@
+# code_reading
+code readingで勉強したことのメモ。動作確認用のコードをいずれ書く可能性があるためgitで管理する。
